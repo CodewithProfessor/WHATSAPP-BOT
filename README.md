@@ -1,7 +1,6 @@
 <div align="center">
      
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＶＡＪＩＲＡ+ＭＤ+ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
-
+ ## COMMING SOON... VAJIRA MD V3 🇱🇰
   
 <div align="center">
 </p
@@ -68,4 +67,4 @@
 
 <hr>
 
-## COMMING SOON.......
+</details>
