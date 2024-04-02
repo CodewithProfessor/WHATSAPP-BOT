@@ -51,6 +51,10 @@
 
 <hr>
 
+***Click [Upload creds.json here](https://github.com/VajiraTech/VAJIRA-MD/tree/main/session)***
+
+<hr>
+
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
 
     
