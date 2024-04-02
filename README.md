@@ -57,8 +57,9 @@
 
 <b><details><summary>𝘿𝙀𝙋𝙇𝙊𝙔𝙈𝙀𝙉𝙏 𝙈𝙀𝙏𝙃𝙊𝘿𝙎</summary><br>
 
-    
- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/VajiraTech/VAJIRA-MD)
+_put your forked repo url after (https://dashboard.heroku.com/new?template=) here_
+
+ [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=)
 
 [![Deploy on Replit](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/github/VajiraTech/VAJIRA-Md)
 
