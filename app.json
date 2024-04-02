@@ -1,0 +1,86 @@
+{
+    "name": "ＱＵＥＥＮ -ＩＺＵＭＩ - V1 WhatsApp Bot",
+    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
+    "repository": "https://github.com/VajiraTech/VAJIRA-MD",
+    "logo": "https://telegra.ph/file/2ffe90aa02a050e3ef285.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Bot",
+        "WhatsApp Automation",
+        "Multi Device"
+    ],
+    "env": {
+    "AUTO_READ": {
+      "description": "Enable auto read feature",
+      "required": false,
+      "value": ""
+    },
+    "ALWAYS_ONLINE": {
+  "description": "Enable always online feature",
+  "required": false,
+  "value": ""
+},
+"AUTO_TYPING": {
+  "description": "Enable auto typing feature",
+  "required": false,
+  "value": ""
+},
+    "MONGO_DB": {
+      "description": "your mongodb database url",
+      "required": true,
+      "value": ""
+    },
+    "LOGO": {
+      "description": "Put your logo url here",
+      "required": true,
+      "value": ""    
+    },
+    "TYPEMENU": {
+  "description": "choose menu type from v1 to v5",
+  "required": false,
+  "value": "v1"
+},
+"ONLYGROUP": {
+  "description": "true for bot work in only group otherwise false",
+  "required": false,
+  "value": "false"
+},
+"ONLYPC": {
+  "description": "true for bot work in only private chat otherwise false",
+  "required": false,
+  "value": "false"
+},
+"AUTO_BLOCK_ENABLED": {
+  "description": "Enable auto block feature for +212",
+  "required": false,
+  "value": "true"
+}
+  },
+   "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "13"
+            }
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "standard-2x"
+        }
+    }
+}
+
