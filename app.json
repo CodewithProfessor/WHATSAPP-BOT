@@ -1,5 +1,5 @@
 {
-    "name": "ＱＵＥＥＮ -ＩＺＵＭＩ - V1 WhatsApp Bot",
+    "name": "ＶＡＪＩＲＡ - ＭＤ - V3 WhatsApp Bot",
     "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
     "repository": "https://github.com/VajiraTech/VAJIRA-MD",
     "logo": "https://telegra.ph/file/b714e9a697c2fd0794985.jpg",
@@ -29,12 +29,12 @@
     "MONGO_DB": {
       "description": "your mongodb database url",
       "required": true,
-      "value": ""
+      "value": "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
     },
     "LOGO": {
       "description": "Put your logo url here",
       "required": true,
-      "value": ""    
+      "value": "https://telegra.ph/file/b714e9a697c2fd0794985.jpg"    
     },
     "TYPEMENU": {
   "description": "choose menu type from v1 to v5",
