@@ -11,50 +11,36 @@
         "Multi Device"
     ],
     "env": {
-    "AUTO_READ": {
-      "description": "Enable auto read feature",
-      "required": false,
-      "value": ""
-    },
-    "ALWAYS_ONLINE": {
-  "description": "Enable always online feature",
-  "required": false,
-  "value": ""
-},
-"AUTO_TYPING": {
-  "description": "Enable auto typing feature",
-  "required": false,
-  "value": ""
-},
-    "MONGO_DB": {
-      "description": "your mongodb database url",
-      "required": true,
-      "value": "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
-    },
-    "LOGO": {
-      "description": "Put your logo url here",
-      "required": true,
-      "value": "https://telegra.ph/file/b714e9a697c2fd0794985.jpg"    
-    },
-    "TYPEMENU": {
-  "description": "choose menu type from v1 to v5",
-  "required": false,
-  "value": "v1"
-},
-"ONLYGROUP": {
-  "description": "true for bot work in only group otherwise false",
-  "required": false,
-  "value": "false"
-},
-"ONLYPC": {
-  "description": "true for bot work in only private chat otherwise false",
-  "required": false,
-  "value": "false"
-},
-"AUTO_BLOCK_ENABLED": {
-  "description": "Enable auto block feature for +212",
-  "required": false,
-  "value": "true"
+    "HEROKU_API_KEY": {
+            "description": "Enter your heroku account api key",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Enter you pushed app Name",
+            "required": true,
+            "value": ""
+        },
+        "MONGO_DB": {
+            "description": "your mongodb database url",
+            "required": true,
+            "value": "mongodb+srv://mohsin:mohsin@cluster0.iauaztt.mongodb.net/?retryWrites=true&w=majority"
+        },
+        "LOGO": {
+            "description": "Put your logo url here",
+            "required": true,
+            "value": "https://telegra.ph/file/b714e9a697c2fd0794985.jpg"    
+        },
+        "TYPEMENU": {
+            "description": "choose menu type from v1 to v5",
+            "required": false,
+            "value": "v1"
+
+        },
+        "AUTO_BLOCK_ENABLED": {
+            "description": "Enable auto block feature for +212",
+            "required": false,
+            "value": "true"
 }
   },
    "buildpacks": [
