@@ -4,7 +4,13 @@
 
   
 <div align="center">
-</p
+</p>
+     
+<hr>
+
+## NEXT UPDATE RELEASED DATE IS MAY 1 READY AL
+
+## ඉලග UPDATE එක රිලීස් කරන්නෙ ඉලග මාසෙ ඒ කියන්නෙ මැයි 1 ලැස්ති වෙලා ඉන්න . පට්ටම අප්ඩේට් එකක්. 
 
 <hr>
 
