@@ -11,8 +11,8 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/vajirabot1">
-    <img src="https://telegra.ph/file/b714e9a697c2fd0794985.jpg"  width="700px">
+<a href="https://github.com/VajiraTech">
+    <img src="https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"  width="700px">
 </a>
 <hr>
 
@@ -71,7 +71,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 <hr>
 
-## HOW TO DEPLOY 🧚 ＱＵＥＥＮ -ＩＺＵＭＩ - ＭＤ 🧚
+## HOW TO DEPLOY 👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ4 👨‍💻
 
 </div>
 
