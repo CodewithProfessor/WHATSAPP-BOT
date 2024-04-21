@@ -1,9 +1,9 @@
 {
-"name": "QUEEN-IZUMI-MD",    
+"name": "VAJIRA-MD",    
 "version": "1.0.0",
 "scripts": {
-"start": "pm2 start index.js --deep-monitoring --attach --name QUEEN-IZUMI-MD",
-"stop": "pm2 stop QUEEN-IZUMI-MD",
+"start": "pm2 start index.js --deep-monitoring --attach --name VAJIRA-MD",
+"stop": "pm2 stop VAJIRA-MD",
 "restart": "git pull && npm stop && npm start",
 "stash": "git stash && git stash drop"
 },
@@ -21,8 +21,11 @@
 "removebg-wrapper": "^1.0.3",
 "awesome-phonenumber": "^2.64.0",
 "express": "latest",
+"sirasa-news": "latest",   
 "@sl-code-lords/esana-news": "latest",
-"sirasa-news": "latest", 
+"@sl-code-lords/wabetainfo": "latest",
+"@kaveesha-sithum/derana-news": "latest",
+"hirunews-scrap": "latest",   
 "@sl-code-lords/github-db": "^1.1.0",
 "@sl-code-lords/js-extra-types": "^0.0.2-dev",
 "@sl-code-lords/si-subdl": "^1.1.1",
