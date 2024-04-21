@@ -1,6 +1,6 @@
 <div align="center">
 
-👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ4 (COMMAND LIST FILES)👨‍💻
+👨‍💻 ＶＡＪＩＲＡ - ＭＤ - Ｖ4 (COMMAND LIST FILES) 👨‍💻
 
 ᴍʏ ʟᴀꜱᴛ ᴜᴘᴅᴀᴛᴇ ᴏꜰ ᴠᴀᴊɪʀᴀ ᴍᴅ ᴍᴜʟᴛɪ-ᴅᴇᴠɪᴄᴇ ʙᴏᴛ.....
 
