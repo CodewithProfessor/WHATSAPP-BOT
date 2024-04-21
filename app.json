@@ -1,0 +1,155 @@
+{
+    "name": "ＶＡＪＩＲＡ - ＭＤ - Ｖ4 WhatsApp Bot",
+    "description": "This is a 3ʳᵈ Party Application software for WhatsApp with Many Feature & many Commands",
+    "repository": "https://github.com/vajirabot1/VAJIRA-MD",
+    "logo": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg",
+    "keywords": [
+        "nodejs",
+        "Bot",
+        "WhatsApp Bot",
+        "WhatsApp Automation",
+        "Multi Device"
+    ],
+    "env": {
+        "SESSION_ID": {
+            "description": "Type the Session-ID you got from scaning QR",
+            "required": true,
+            "value": "put session id here"
+        },
+        "HEROKU_API_KEY": {
+            "description": "Enter your heroku account api key",
+            "required": true,
+            "value": ""
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Enter you pushed app Name",
+            "required": true,
+            "value": ""
+        },
+        "NUMBER_212_BLOCK": {
+            "description": "dont change this",
+            "required": true,
+            "value": "false"
+        },
+        "PREFIX": {
+            "description": "put prefix here",
+            "required": true,
+            "value": "."      
+        },
+        "WELCOME": {
+            "description": "To turn on/off welcome/goobye message put true/false",
+            "required": true,
+            "value": "false"      
+        },
+        "LANG": {
+            "description": "To put bot sinhala do not fill here. you want to put bot english put EN here",
+            "required": true
+        },
+        "OWNER-NAME": {
+            "description": "put Your name herd",
+            "required": true,
+            "value": "Vajira"      
+        },
+        "OWNER_NUMBER": {
+            "description": "put your number here",
+            "required": true,
+            "value": "94719199757"
+        },
+        "IMAGE": {
+            "description": "Put bot image url here",
+            "required": true,
+             "value": "https://telegra.ph/file/03f1eccdcb525a5e1a6ad.jpg"
+        },
+        "ANTI_BOT": {
+            "description": "put true or false here",
+            "required": true,
+            "value": "false"
+        },
+        "ANTI_LINK": {
+            "description": "put true or false here",
+            "required": true,
+            "value": "false"
+        },
+        "ANTI_BAD": {
+            "description": "put true or false here",
+            "required": true,
+            "value": "false"
+        },
+        "WORK_TYPE": {
+            "description": "Add the worktype of the Bot ( public or private )",
+            "required": true,
+            "value": "private"
+        },
+        "AUTO_VOICE": {
+            "description": "Put true or false to voice on off",
+            "required": true,
+            "value": "false"
+        },
+        "AUTO_STATUS_READ": {
+            "description": "To on auto read message",
+            "required": true,
+            "value": "false"          
+        },
+        "AUTO_TYPING": {
+            "description": "To on auto typing",
+            "required": true,
+            "value": "false"     
+        },
+        "AUTO_RECORDING": {
+            "description": "To on auto recording",
+            "required": true,
+            "value": "false"    
+        },
+        "AUTO_READ": {
+            "description": "To on read message",
+            "required": true,
+            "value": "false"  
+        },
+        "AUTO_BIO": {
+            "description": "To on auto bio",
+            "required": true,
+            "value": "false"      
+        },
+        "AUTO_REACT": {
+            "description": "To on auto auto react",
+            "required": true,
+            "value": "false"          
+        },
+        "ALWAYS_ONLINE": {
+            "description": "To on auto status view",
+            "required": true,
+            "value": "false"              
+        },
+        "AUTO_STICKER": {
+            "description": "Put true or false to sticker on off",
+            "required": true,
+            "value": "false"
+        
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        },
+        {
+            "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+        },
+        {
+            "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+        }
+    ],
+    "addons": [
+        {
+            "plan": "heroku-postgresql",
+            "options": {
+                "version": "13"
+            }
+        }
+    ],
+    "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "standard-2x"
+        }
+    }
+}
