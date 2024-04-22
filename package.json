@@ -25,6 +25,7 @@
 "@sl-code-lords/esana-news": "latest",
 "@sl-code-lords/wabetainfo": "latest",
 "@kaveesha-sithum/derana-news": "latest",
+"tech-news-scraper": "latest",
 "hirunews-scrap": "latest",   
 "@sl-code-lords/github-db": "^1.1.0",
 "@sl-code-lords/js-extra-types": "^0.0.2-dev",
