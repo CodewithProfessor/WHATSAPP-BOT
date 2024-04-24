@@ -18,9 +18,9 @@
 
 <hr>
 
-_Dont use more than 1 bug commands then your whatsapp will banned avoid from bug commands_
+## Dont use more than 1 bug commands then your whatsapp will banned avoid from bug commands
 
-_Bot deploy in whatsapp biussness then not banned_
+## Bot deploy in whatsapp biussness then not banned
 
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
