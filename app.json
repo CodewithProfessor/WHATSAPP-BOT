@@ -16,16 +16,6 @@
             "required": true,
             "value": "put session id here"
         },
-        "HEROKU_API_KEY": {
-            "description": "Enter your heroku account api key",
-            "required": true,
-            "value": ""
-        },
-        "HEROKU_APP_NAME": {
-            "description": "Enter you pushed app Name",
-            "required": true,
-            "value": ""
-        },
         "NUMBER_212_BLOCK": {
             "description": "dont change this",
             "required": true,
