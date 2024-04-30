@@ -22,7 +22,7 @@
 
 ## Bot deploy in whatsapp biussness then not banned
 
-## Pairinh code not works request this number https://wa.me/94719199767
+## Pairing code not works request this number https://wa.me/94719199757
 
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
