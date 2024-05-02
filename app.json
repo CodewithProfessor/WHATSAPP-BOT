@@ -54,17 +54,17 @@
         "ANTI_BOT": {
             "description": "put true or false here",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "ANTI_LINK": {
             "description": "put true or false here",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "ANTI_BAD": {
             "description": "put true or false here",
             "required": true,
-            "value": "true"
+            "value": "false"
         },
         "WORK_TYPE": {
             "description": "Add the worktype of the Bot ( public or private )",
