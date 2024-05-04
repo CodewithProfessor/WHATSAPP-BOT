@@ -54,7 +54,7 @@
 
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
-<a href="https://vajira-paircode-f5d762364f53.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
 ***Wait few minutes to open qr 👇***
