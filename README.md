@@ -54,12 +54,12 @@
 
 ## DEPLOY BY SESSION ID or creds.json (Qr code)
 
-<a href="https://paircode2-2034df265851.herokuapp.com/QR"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://paircode2-2034df265851.herokuapp.com/PAIR"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
 ***Wait few minutes to open qr 👇***
 
-<a href="https://paircode2-2034df265851.herokuapp.com/QR"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+<a href="https://paircode2-2034df265851.herokuapp.com/PAIR"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
 
 
 <hr>
