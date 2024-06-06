@@ -11,7 +11,7 @@
 <hr>
 
 <p align="center">
-<a href="https://github.com/vajirabot1">
+<a href="https://github.com/VajiraTech">
     <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
 </a>
 <hr>
@@ -37,7 +37,7 @@
 
 ***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
 
-***Click [My web](https://vajiratech.github.io/QUEEN-IZUMI-WEB/)***
+***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
 
 <hr>
 
