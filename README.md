@@ -12,7 +12,7 @@
 
 <p align="center">
 <a href="https://github.com/vajirabot1">
-    <img src="https://telegra.ph/file/b714e9a697c2fd0794985.jpg"  width="700px">
+    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
 </a>
 <hr>
 
@@ -71,7 +71,7 @@ Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules
 
 <hr>
 
-## HOW TO DEPLOY 🧚 ＱＵＥＥＮ -ＩＺＵＭＩ - ＭＤ 🧚
+## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
 
 </div>
 
