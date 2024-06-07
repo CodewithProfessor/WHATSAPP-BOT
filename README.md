@@ -44,6 +44,18 @@
 <hr>
 
 
+## DEPLOY BY SESSION ID or creds.json (Qr code)
+
+
+<a href="https://pairing1-9450d1f488c5.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+
+
+
+<a href="https://paircode2-2034df265851.herokuapp.com/"><img src="https://i.ibb.co/FWSfNmb/scan-qr-zusyco-btn.png" alt="QR-CODE 1" border="2" width="170" height="40" ></a>
+
+
+
+
 <hr>
 
 <hr>
@@ -56,13 +68,7 @@
 
 <hr>
 
-## HELPERS
-[![USHANI](https://telegra.ph/file/1cacb07896ee14aa5920b.jpg?size=80)](https://github.com/vajirabot1) | [![SAVIYA](https://telegra.ph/file/1046fee52c7a14d556793.jpg?size=100)](https://github.com/VajiraTech) | [![TIMASH](https://telegra.ph/file/5e0bf1e4f7230ffe9cc37.jpg?size=109)](https://github.com/VajiraTech) | [![DANIDU](https://telegra.ph/file/4f43cf774e634e40129e5.jpg?size=80)](https://github.com/VajiraTech) | [![VIHANGA](https://telegra.ph/file/3b6537eb342b32de56558.jpg?size=80)](https://github.com/vihangayt0)
-----|----|----|----|----
-[USHANI](https://wa.me/94767898887) | [SAVIYA](https://wa.me/+94757309293) | [TAMISHA](https://wa.me/94715264791) | [DANIDU](https://wa.me/94715322008) | [VIHANGA](https://wa.me/94762898541)
-Voice helper  | Developer, Bug Fixes, Modules |Developer,Bug Fixes,Base, Modules, | Modules, Idea | Modules
 
-<hr>
 
 ## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
 
