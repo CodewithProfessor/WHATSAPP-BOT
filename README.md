@@ -19,6 +19,12 @@
 <hr>
 
 
+## JOIN MY WHATSAPP CHANNEL
+
+[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+
+
+
 <b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
 
 ## CONTACT OWNER
