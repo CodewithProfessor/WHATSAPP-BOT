@@ -1,84 +1,113 @@
-<div align="center">
-     
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F01&lines=ＷＨＡＴＳＡＰＰ+ＢＯＴ)](https://git.io/typing-svg)
+# WhatsApp Bot
 
-  
-<div align="center">
-</p
+A versatile WhatsApp Bot built using Node.js and the Baileys library. This bot can handle a variety of tasks including downloading content, managing groups, and more.
 
-<hr>
+## Table of Contents
 
-<hr>
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Configuration](#configuration)
+- [Dependencies](#dependencies)
+- [Contributing](#contributing)
+- [License](#license)
 
-<p align="center">
-<a href="https://github.com/VajiraTech">
-    <img src="https://telegra.ph/file/235d945df230d71f246b6.jpg"  width="700px">
-</a>
-<hr>
+## Features
 
-<hr>
+- Download content from various sources
+- Group management
+- Message handling
+- Web scraping
+- TikTok and YouTube integrations
+- Customizable plugins
 
+## Installation
 
-## JOIN MY WHATSAPP CHANNEL
+1. **Clone the repository:**
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://whatsapp.com/channel/0029VahMZasD8SE5GRwzqn3Z)
+    ```sh
+    git clone https://github.com/yourusername/whatsapp-bot.git
+    cd whatsapp-bot
+    ```
 
+2. **Install dependencies:**
 
+    ```sh
+    npm install
+    ```
 
-<b><details><summary>𝗦𝗢𝗖𝗜𝗔𝗟 𝗧𝗬𝗣𝗘𝗦</summary><br>
+3. **Start the bot:**
 
-## CONTACT OWNER
+    ```sh
+    npm start
+    ```
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://wa.me/94719199757)
+## Usage
 
-## JOIN SUPPORT GROUP
+- To start the bot, run `npm start`.
+- Ensure you have your WhatsApp account linked by scanning the QR code that appears when you start the bot.
 
-[![vajira](https://telegra.ph/file/99460844d012cad1b7ee4.jpg)](https://chat.whatsapp.com/D6w6Qy5yrhp7MmfNcprbO3)
+## Configuration
 
-## MY YT CHANNEL
+### app.json
 
-[![Youtube](https://telegra.ph/file/eebe86c26e98ffeae39ea.jpg)](https://youtube.com/@gamingewingyt6216) 
+Configuration settings for the application.
 
-</details>
+### settings.js
 
-***Click [FORK](https://github.com/VajiraTech/VAJIRA-MD-fork)***
+Modify settings according to your needs.
 
-***Click [My web](https://vajira-api-7967fdc132a8.herokuapp.com/)***
+### lib/owner.json
 
-<hr>
+Contains owner-related information and settings.
 
-<hr>
+### lib/vajira_rathnayaka.json
 
+Contains user or developer-specific information.
 
-## DEPLOY BY SESSION ID or creds.json (Qr code)
+## Dependencies
 
+- [@whiskeysockets/baileys](https://github.com/VajiraTech/VAJIRA-BAILEYS)
+- [axios](https://www.npmjs.com/package/axios)
+- [cheerio](https://www.npmjs.com/package/cheerio)
+- [express](https://www.npmjs.com/package/express)
+- [ffmpeg-installer](https://www.npmjs.com/package/@ffmpeg-installer/ffmpeg)
+- [puppeteer](https://www.npmjs.com/package/puppeteer)
+- And many more...
 
-<a href="https://paircode0-11304b2f69df.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+For a full list of dependencies, please refer to the `package.json` file.
 
+## Project Structure
 
-<a href="https://paircode02-fc19c7206fd1.herokuapp.com/"><img src="https://i.ibb.co/5BGSVZw/pair-code-btn-zusyco.png" alt="PAIR-CODE" border="2" width="170" height="41" ></a>
+- **index.js**: Main entry point of the application.
+- **settings.js**: Configuration settings for the application.
+- **lib/**: Contains various utility modules and database handlers.
+  - **apkdl.js**: Functions related to APK downloads.
+  - **command.js**: Handles command parsing and execution.
+  - **database.js**: Manages database connections and queries.
+  - **scraper.js**: Functions for web scraping.
+  - **tiktok.js**: Functions related to TikTok data handling.
+  - **msg.js**: Handles message-related operations.
+  - And more...
+- **plugins/**: Contains various plugins that add functionality to the bot.
+  - **bugs.js**: Handles bug-related operations.
+  - **convert.js**: Functions for converting data formats.
+  - **download.js**: Handles downloading operations.
+  - **group.js**: Functions related to group operations.
+  - **search.js**: Handles search functionality.
+  - And more...
 
-<hr>
+## Contributing
 
-<hr>
+We welcome contributions! Please follow these steps:
 
-## DEPLOYMENT METHODS
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add new feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Create a new Pull Request.
 
-[CLICK TO SELECT DEPLOY PLATFORM](https://vajiratech.github.io/VAJIRA-DEPLOY/QUEEN-IZUMI-WEB-main/projects/deployment.html)
+## License
 
-<hr>
-
-<hr>
-
-
-
-## HOW TO DEPLOY 🧚 VAJIRA - ＭＤ 🧚
-
-</div>
-
-1) 𝙵𝙸𝚁𝚂𝚃 𝙵𝙾𝚁𝙺 𝚃𝙷𝙴 𝚁𝙴𝙿𝙾.
-2) 𝚂𝙲𝙰𝙽 𝚃𝙷𝙴 𝚀𝚁 𝚃𝙷𝙴𝙽 𝚆𝙸𝙻𝙻 𝙲𝙾𝙼𝙴 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝚉𝙸𝙿 𝙵𝙸𝙻𝙴 𝙴𝚇𝚃𝚁𝙰𝙲𝚃 𝙸𝚃 𝙰𝙽𝙳 𝚄𝙿𝙻𝙾𝙰𝙳 𝚃𝙷𝙴 𝙲𝚁𝙴𝙳𝚂.𝙹𝚂𝙾𝙽 𝙵𝙸𝙻𝙴 𝙸𝙽𝚃𝙾 𝚂𝙴𝚂𝚂𝙸𝙾𝙽 𝙵𝙾𝙻𝙳𝙴𝚁.
-3) 𝙰𝙽𝙳 𝙼𝙰𝙺𝙴 𝙽𝙴𝚆𝚂 𝙷𝙴𝚁𝙾𝙺𝚄 𝙰𝙿𝙿.
-4) 𝙰𝙽𝙳 𝚂𝙴𝙻𝙴𝙲𝚃 𝙵𝙾𝚁𝙺 𝚁𝙴𝙿𝙸 𝙰𝙽𝙳 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙷𝙴 𝙱𝙾𝚃.
-5) 𝙿𝚄𝚃 𝙳𝚈𝙽𝙾 𝚃𝙾 𝙿𝚁𝙾𝙵𝙴𝚂𝚂𝙸𝙾𝙽𝙰𝙻 𝙰𝙽𝙳 𝙿𝚄𝚃 𝙸𝚃 2𝚡.
-6) 𝙽𝙾𝚆 𝙴𝙽𝙹𝙾𝚈 𝚃𝙷𝙴 𝚀𝚄𝙴𝙴𝙽 𝙸𝚉𝚄𝙼𝙸 𝙼𝙳 𝙱𝙾𝚃.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
